@@ -1,0 +1,878 @@
+<!DOCTYPE html PUBLIC "-//W2C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="../style.css" />
+</head>
+<body>
+<div id="wrapper-menu-top">
+  <div id="menu-top">
+    <ul>
+      <li><a href="../Chapter%201%20Introduction/CONTENTS.htm"><span>Chapter 1</span></a></li>
+      <li><a href="../Chapter%202%20GREEKS/Chapter_CONTENTS.htm"><span>Chapter 2</span></a></li>
+      <li><a href="../Chapter%203%20Religion/CONTENTS.htm"><span>Chapter 3</span></a></li>
+      <li><a href="../Chapter%204%20Metaphysics/CONTENTS.htm"><span>Chapter 4</span></a></li>
+      <li><a href="../Chapter%205%20Epistemology/CONTENTS.htm"><span>Chapter 5</span></a></li>
+      <li><a href="../Chapter%206%20Mind-Body/CONTENTS.htm"><span>Chapter 6</span></a></li>
+      <li><a href="../Chapter%207%20Freedom/CONTENTS.htm"><span>Chapter 7</span></a></li>
+      <li><a href="../Chapter%208%20Ethics/CONTENTS.htm"><span>Chapter 8</span></a></li>
+      <li><a href="../Chapter%209%20Social%20Philosophy/CONTENTS.htm"><span>Chapter 9</span></a></li>
+      <li><a href="../Chapter%2010%20Political%20Philosophy/CONTENTS.htm"><span>Chapter 10</span></a></li>
+      <li><a href="../Chapter%2011%20Philosophy%20of%20Art/CONTENTS.htm"><span>Chapter 11</span></a></li>
+      <li><a href="../Chapter%2012Conclusion/CONTENTS.htm"><span>Chapter 12</span></a></li>
+    </ul>
+  </div>
+  <!--menu-top-->
+</div>
+<!--wrapper-menu-top-->
+<div id="wrapper-header">
+  <div id="header">
+    <div id="wrapper-header2">
+      <div id="wrapper-header3">
+        <h1>Chapter 5: Epistemology</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="wrapper-content">
+  <div id="wrapper-menu-page">
+    <div id="menu-page">
+<ul>
+<li> 1. <A HREF="OVERVIEW.htm">OVERVIEW
+<li>2. <A HREF="Rationalism.htm">Rationalism
+<li>3. <A HREF="Empiricism.htm">Empiricism
+<li>4. <A HREF="Transcendental_Idealism.htm">Transcendentalism
+<li>5. <A HREF="Skepticism.htm">Skepticism
+<li>6. <A HREF="Types_of_knowledge.htm">Types of Knowledge
+<li>7. <A HREF="Truth.htm">Truth
+<li>8. <A HREF="Truth_Science.htm">Truth and Science
+<li>9. <A HREF="CONCLUSION.htm">Conclusion
+      </ul>
+
+
+
+
+
+   
+   <p><a href="http://www.qcc.cuny.edu/socialSciences/ppecorino/../CONTENTS.htm/"><img src="images/logo.png" width="165" height="60" alt="" /></a></p>
+    </div>
+    <!--menu-page-->
+  </div>
+  <div id="content">
+    <h2>Why Truth Matters</h2> <!--Give the chapter name number here-->
+
+<tr>
+    <td width="100%"><!--mstheme--><font face="book antiqua,times new roman,times">
+	<p class="MsoNormal"><b><span style="font-size: 16.0pt; color: #1F497D">
+	Truth: Does it matter?&nbsp; Why? Who says?</span><span style="font-size: 16.0pt; color: #23262A">
+	</span></b>&nbsp;</p>
+	<p class="MsoNormal">&quot;What is absolutely true is always correct, everywhere, 
+	all the time, under any condition. An entity's ability to discern these 
+	things is irrelevant to that state of truth.&quot; —<a title="Steven Robiner" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Steven_Robiner">Steven 
+	Robiner</a> <sup>
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Universality_(philosophy)#cite_note-2">
+	[2]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Universality_(philosophy)#cite_note-3">[3]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Universality_(philosophy)#cite_note-4">[4]</a></sup></p>
+	<p class="MsoNormal">“Everyone is entitled to his own opinion, but not his 
+	own facts.” —<a title="Daniel Patrick Moynihan" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Daniel_Patrick_Moynihan">Daniel 
+	Patrick Moynihan</a><sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Universality_(philosophy)#cite_note-5">[</a></sup></p>
+	<p class="MsoNormal">&nbsp;Truth has fallen victim to a proliferation of 
+	behaviors that diminish the importance of truth in popular culture.&nbsp; 
+	Among the behaviors are the increase in use of what is known as &quot;<a target="_blank" href="http://en.wikipedia.org/wiki/Truthiness">truthiness</a>&quot; 
+	and &quot;<a target="_blank" href="http://en.wikipedia.org/wiki/Bull_shit#Harry_Frankfurt.27s_concept">Bullshit</a>&quot; 
+	as well as <a target="_blank" href="http://en.wikipedia.org/wiki/Denialism">
+	denialism </a>and post modern ideas of
+	<a target="_blank" href="http://en.wikipedia.org/wiki/Relativism">relativism</a>, 
+	denying that there is or can be truth.</p>
+	<p class="MsoNormal"><span class="mw-headline"><u>
+	<span style="font-size: 14.0pt; font-weight: 700">Truthiness</span></u></span></p>
+	<blockquote>
+		<p><b>Truthiness</b> is a quality characterizing a &quot;truth&quot; that a person 
+		making an argument or assertion claims to know
+		<a title="Intuition (knowledge)" class="mw-redirect" href="http://en.wikipedia.org/wiki/Intuition_(knowledge%2529">
+		intuitively</a> &quot;from the gut&quot; or because it &quot;feels right&quot; without 
+		regard to
+		<a title="Evidence" href="http://en.wikipedia.org/wiki/Evidence">
+		evidence</a>, <a title="Logic" href="http://en.wikipedia.org/wiki/Logic">
+		logic</a>,
+		<a title="Intelligence" href="http://en.wikipedia.org/wiki/Intelligence">
+		intellectual</a> examination, or
+		<a title="Fact" href="http://en.wikipedia.org/wiki/Fact">facts</a>.<sup id="cite_ref-1" class="reference">&nbsp; 
+		--</sup>&nbsp;
+		<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://en.wikipedia.org/wiki/Truthiness">http://en.wikipedia.org/wiki/Truthiness</a></p>
+		<p class="MsoNormal">American television comedian
+		<a title="Stephen Colbert" href="http://en.wikipedia.org/wiki/Stephen_Colbert">
+		Stephen Colbert</a> coined the word in this meaning<sup id="cite_ref-zimmer_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Truthiness#cite_note-zimmer-2">[2]</a></sup> 
+		as the subject of a segment called &quot;<a title="Recurring segments on The Colbert Report" href="http://en.wikipedia.org/wiki/Recurring_segments_on_The_Colbert_Report#The_W.C3.B8rd">The 
+		Wørd</a>&quot; during the
+		<a title="Television pilot" href="http://en.wikipedia.org/wiki/Television_pilot">
+		pilot</a> episode of his political
+		<a title="Satire" href="http://en.wikipedia.org/wiki/Satire">satire</a> 
+		program <i>
+		<a title="The Colbert Report" href="http://en.wikipedia.org/wiki/The_Colbert_Report">
+		The Colbert Report</a></i> on October 17, 2005. By using this as part of 
+		his routine, Colbert satirized the misuse of
+		<a title="Appeal to emotion" href="http://en.wikipedia.org/wiki/Appeal_to_emotion">
+		appeal to emotion</a> and &quot;gut feeling&quot; as a rhetorical device in 
+		contemporaneous socio-political discourse.<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://en.wikipedia.org/wiki/Truthiness">http://en.wikipedia.org/wiki/Truthiness</a></p>
+	</blockquote>
+	<h3><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><span class="mw-headline"><u><span style="font-size: 14.0pt">Harry 
+	Frankfurt's concept of Bullshit</span></u></span><!--mstheme--></font></h3>
+	<p>In his essay <i>
+	<a title="On Bullshit" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/On_Bullshit">
+	On Bullshit</a></i> (originally written in 1986, and published as a 
+	monograph in 2005), philosopher
+	<a title="Harry Frankfurt" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Harry_Frankfurt">
+	Harry Frankfurt</a> of
+	<a title="Princeton University" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Princeton_University">
+	Princeton University</a> characterizes bullshit as a form of falsehood 
+	distinct from lying. The liar, Frankfurt holds, knows and cares about the 
+	truth, but deliberately sets out to mislead instead of telling the truth. 
+	The &quot;bullshitter&quot;, on the other hand, does not care about the truth and is 
+	only seeking to impress:<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Bull_shit#cite_note-8">[8]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Bull_shit#cite_note-9">[9]</a></sup>&nbsp;</p>
+	<p style="margin-left: .5in"><i>It is impossible for someone to lie unless 
+	he thinks he knows the truth. Producing bullshit requires no such 
+	conviction. A person who lies is thereby responding to the truth, and he is 
+	to that extent respectful of it. When an honest man speaks, he says only 
+	what he believes to be true; and for the liar, it is correspondingly 
+	indispensable that he considers his statements to be false. For the 
+	bullshitter, however, all these bets are off: he is neither on the side of 
+	the true nor on the side of the false. His eye is not on the facts at all, 
+	as the eyes of the honest man and of the liar are, except insofar as they 
+	may be pertinent to his interest in getting away with what he says. He does 
+	not care whether the things he says describe reality correctly. He just 
+	picks them out, or makes them up, to suit his purpose.</i></p>
+	<p class="MsoNormal"><span class="mw-headline"><b><u>
+	<span style="font-size: 14.0pt; font-family: Cambria,serif">Denialism </span>
+	</u></b></span>is choosing to
+	<a title="Denial" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denial">
+	deny</a>
+	<a title="Reality" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Reality">
+	reality</a> as a way to avoid an uncomfortable
+	<a title="Truth" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Truth">
+	truth</a>.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-1">[1]</a></sup> 
+	Author Paul O'Shea remarks, &quot;[It] is the refusal to accept an
+	<a title="Empirical" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Empirical">
+	empirically</a> verifiable reality. It is an essentially
+	<a title="Irrational" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Irrational">
+	irrational</a> action that withholds validation of a historical experience 
+	or event&quot;.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-2">[2]</a></sup></p>
+	<p class="MsoNormal">In science, denialism has been defined as the rejection 
+	of basic concepts that are undisputed and well-supported parts of the
+	<a title="Scientific consensus" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Scientific_consensus">
+	scientific consensus</a> on a topic in favor of ideas that are both radical 
+	and controversial.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-3">[3]</a></sup> 
+	It has been proposed that the various forms of denialism have the common 
+	feature of the rejection of overwhelming evidence and the generation of a 
+	controversy through attempts to deny that a consensus exists.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-Diethelm-4">[4]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-McKee-5">[5]</a></sup> 
+	A common example is
+	<a title="Young Earth creationism" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Young_Earth_creationism">
+	Young Earth creationism</a> and its dispute with the
+	<a title="Level of support for evolution" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Level_of_support_for_evolution">
+	evolutionary theory</a>. <sup>
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-6">
+	[6]</a></sup></p>
+	<p class="MsoNormal">The terms <i>
+	<a title="Holocaust denialism" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Holocaust_denialism">
+	Holocaust denialism</a></i> and <i>
+	<a title="AIDS denialism" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/AIDS_denialism">
+	AIDS denialism</a></i> have been used,<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-7">[7]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-8">[8]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-9">[9]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-10">[10]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-11">[11]</a></sup> 
+	and the term <i>
+	<a title="Climate change denial" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Climate_change_denial">
+	climate change denialists</a></i> has been applied to those who argue 
+	against the
+	<a title="Scientific opinion on climate change" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Scientific_opinion_on_climate_change">
+	scientific consensus</a> that
+	<a title="Global warming" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Global_warming">
+	global warming</a> is occurring and that human activity is its primary 
+	cause.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-12">[12]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-13">[13]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-goodman-14">[14]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-15">[15]</a></sup> 
+	Use of the word <i>denialism</i> has been criticised, for example as a 
+	polemical propaganda tool to suppress non-mainstream views.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-16">[16]</a></sup> 
+	Similarly, in an essay discussing the general importance of skepticism,
+	<a title="Clive James" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Clive_James">
+	Clive James</a> objected to the use of the word denialist to describe 
+	climate change skeptics, stating that it &quot;calls up the spectacle of a 
+	fanatic denying the Holocaust.&quot;<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-17">[17]</a></sup>
+	<a title="Celia Farber" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Celia_Farber">
+	Celia Farber</a> has objected to the term <i>AIDS denialists</i> arguing 
+	that it is unjustifiable to place this belief on the same moral level with 
+	the Nazi crimes against humanity.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-18">[18]</a></sup> 
+	However,
+	<a title="Robert Gallo" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Robert_Gallo">
+	Robert Gallo</a> <i>et al.</i> defended this latter comparison, stating that 
+	AIDS denialism is similar to Holocaust denial as it is a form of
+	<a title="Pseudoscience" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Pseudoscience">
+	pseudoscience</a> that &quot;contradicts an immense body of research.&quot;<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-19">[19]</a></sup></p>
+	<p class="MsoNormal">Several motivations for denialism have been proposed, 
+	including religious beliefs and self-interest, or as a psychological defense 
+	mechanism against disturbing ideas.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-20">[20]</a><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Denialism#cite_note-denial_ind_guardian-21">[21]</a></sup></p>
+	<p class="MsoNormal"><span class="mw-headline"><b><u>
+	<span style="font-size: 14.0pt; font-family: Cambria,serif">Relativism</span></u></b></span> 
+	is the concept that points of view have no absolute
+	<a title="Truth" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Truth">
+	truth</a> or
+	<a title="Validity" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Validity">
+	validity</a>, having only relative, subjective value according to 
+	differences in perception and consideration.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Relativism#cite_note-1">[1]</a></sup> 
+	The term is often used to refer to the context of
+	<a title="Moral" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Moral">
+	moral</a> principle, where in a relativistic mode of thought,
+	<a title="Value (personal and cultural)" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Value_(personal_and_cultural%2529">
+	principles</a> and
+	<a title="Ethics" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Ethics">
+	ethics</a> are regarded as applicable in only limited context. There are 
+	many forms of relativism which vary in their degree of controversy.<sup><a style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Relativism#cite_note-2">[2]</a></sup> 
+	The term often refers to <i>
+	<a title="Truth" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Truth">
+	truth</a> relativism</i>, which is the doctrine that there are no
+	<a title="Universality (philosophy)" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Universality_(philosophy%2529">
+	absolute truths</a>, i.e., that truth is always relative to some particular 
+	frame of reference, such as a language or a culture (cf.
+	<a title="Cultural relativism" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Cultural_relativism">
+	cultural relativism</a>). Another widespread and contentious form is <i>
+	<a title="Moral relativism" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Moral_relativism">
+	moral relativism</a></i>.<span style="color: #23262A">.&nbsp;</span></p>
+	<p><b><u>True to Life: Why Truth Matters</u></b><span style="font-size: 10.0pt; color: black">&nbsp; 
+	By MICHAEL P. LYNCH Cambridge, Massachusetts: MIT Press, 2004. </span></p>
+	<blockquote>
+		<p>
+		<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+		There is a cynicism regarding truth or objective truth.&nbsp; There also 
+		exists the desire to believe what is useful to believe and to believe 
+		that what matters are the CONSEQUENCES.&nbsp; In reaction to this there is 
+		not to be a promotion of truth that is conservative in advocating an 
+		allegiance to you believe.&nbsp; This is not truth but DOGMA. There is not to 
+		be support for the liberal equation of truth with absolute certain 
+		truth.&nbsp; This then would promote relativism.</span></p>
+		<p><b><u>
+		<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+		TRUTH MATTERS</span></u></b></p>
+		<p>
+		<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+		Without it there is no support for OUTRAGE over atrocities if all 
+		reports are of equal truth value. And treated as just TEXT.</span></p>
+		<p>
+		<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+		TRUTH and its pursuit are politically important!!!</span></p>
+		<p>
+		<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+		1.)Need to distinguish right answers from wrong answers, true from false 
+		reports about the world</span></p>
+		<p>
+		<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+		If there is no truth or if all truth is relative then </span></p>
+		<!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<!--msthemelist--><tr><td valign="top" width="42"><img src="../_themes/expeditn/expbul1a.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="book antiqua,times new roman,times">
+			<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+			CRITICISMS are not permissible</span><!--mstheme--></font><!--msthemelist--></td></tr>
+			<!--msthemelist--><tr><td valign="baseline" width="42"><img src="../_themes/expeditn/expbul1a.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="book antiqua,times new roman,times">
+			<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+			DISSENT is not permissible or supportable</span><!--mstheme--></font><!--msthemelist--></td></tr>
+		<!--msthemelist--></table><!--mstheme--><font face="book antiqua,times new roman,times">
+		<p><i>2.<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black">The 
+		idea of a FUNDAMENTAL RIGHT or HUMAN RIGHT is undermined as they 
+		presuppose some idea of truth.&nbsp; </span></i></p>
+		<p style="text-indent: -.25in; margin-left: .5in"><i>
+		<span style="font-family: Symbol">·</span><span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		TRUTH is a necessary condition asserting the existence of any human 
+		RIGHT apart from what government decrees</span></i></p>
+		<p style="text-indent: -.25in; margin-left: .5in">
+		<span style="font-size: 10.0pt; font-family: Arial,sans-serif; color: black; font-style: italic">
+		·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TRUTH is necessary to reject the idea that BELIEVING in claim 
+		X makes claim X true.</span></p>
+		<blockquote>
+			<p>
+			<span style="font-size: 10.0pt; color: black; font-family: Arial,sans-serif; font-style: italic">
+			“It follows that a necessary condition for fundamental rights is a 
+			distinction between what the government --&nbsp;in the wide sense of the 
+			term --&nbsp;says is so and what is true. That is, in order for me to 
+			understand that I have fundamental rights, it must be possible for 
+			me to have the following thought: that even though everyone else in 
+			my community thinks that, for example, same-sex marriages should be 
+			outlawed, people of the same sex still have a right to be married. 
+			But I couldn't have that thought unless I was able to entertain the 
+			idea that believing doesn't make things so, that there is something 
+			that my thoughts can respond to other than the views of my fellow 
+			citizens, powerful or not. The very concept of a fundamental right 
+			presupposes the concept of truth. Take-home lesson: If you care 
+			about your rights, you had better care about truth.”</span></p>
+		</blockquote>
+		<p><i>3. Governmental transparency and freedom of information are the 
+		basis of a defense against tyranny.&nbsp; TRUTH is important for the 
+		INTEGRITY of the DEMOCRATIC Process.&nbsp; </i></p>
+		<p><span style="font-size: 10.0pt; font-style: italic">“But the 
+		anti-tyranny argument will be of interest to those whose government is 
+		not yet tyrannical, but who fear it is heading in that direction. In 
+		brief, the anti-tyranny argument is precisely the sort of argument that 
+		is of interest to concerned citizens of a liberal democracy like our 
+		own. Unless the government strives to tell the truth, liberal 
+		democracies are no longer liberal or democratic.”</span></p>
+		<p><span style="font-size: 10.0pt; font-style: italic">As the 
+		philosopher and social critic Michel Foucault aptly noted in an 
+		interview in 1984, unless it would impose &quot;the silence of slavery,&quot; no 
+		government can afford to ignore its obligation to the truth.</span></p>
+	</blockquote>
+	<p><em><span style="font-size: 10.0pt; color: black">.</span></em><b><u> 
+	On Truth</u></b><span style="font-size: 10.0pt; color: black"> (</span><span style="color: black"><a title="http://en.wikipedia.org/w/index.php?title=Special:Booksources&amp;isbn=030726422X" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/w/index.php?title=Special:Booksources&isbn=030726422X"><span style="font-size:10.0pt;color:black">ISBN 
+	0-307-26422-X</span></a></span><span style="font-size: 10.0pt; color: black">)&nbsp;</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp; 
+	By Harry G. Frankfurt. 101 pp. Alfred A. Knopf. $12.50. </span>
+	<span style="font-size: 10.0pt; color: black">is the </span>
+	<span style="color: black">
+	<a title="http://en.wikipedia.org/wiki/2006
+2006" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/2006">
+	<span style="font-size:10.0pt;
+color:black">2006</span></a></span><span style="font-size: 10.0pt; color: black"> 
+	follow-up to </span><span style="color: black">
+	<a title="http://en.wikipedia.org/wiki/Harry_Frankfurt
+Harry Frankfurt" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Harry_Frankfurt">
+	<span style="font-size:10.0pt;color:black">Harry Frankfurt's</span></a></span><span style="font-size: 10.0pt; color: black">
+	</span><span style="color: black">
+	<a title="http://en.wikipedia.org/wiki/2005
+2005" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/2005">
+	<span style="font-size:10.0pt;
+color:black">2005</span></a></span><span style="font-size: 10.0pt; color: black"> 
+	bestselling book, <i>
+	<a title="http://en.wikipedia.org/wiki/On_Bullshit
+On Bullshit" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/On_Bullshit">
+	<span style="color:black">On Bullshit</span></a> see also <em>&nbsp;</em></i>Harry 
+	Frankfurt&nbsp; <em>
+	<a title="http://en.wikipedia.org/wiki/Harry_Frankfurt" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Harry_Frankfurt">
+	<span style="color:black">http://en.wikipedia.org/wiki/Harry_Frankfurt</span></a></em></span>&nbsp;</p>
+	<blockquote>
+		<p><i>Caring about truth provides a ground and a motivation for our 
+		curiosity about the facts and for our commitment to the importance of 
+		inquiry.&nbsp;</i></p>
+		<p><i>Certain aspects of our experience make it apparent that they are 
+		independent of us.&nbsp; That is the origin of our concept of reality, which 
+		is essentially a concept of hat limits us, of what we can not alter or 
+		control by the mere motion of our will.</i></p>
+		<p><i>We learn our powers and our vulnerabilities.</i></p>
+		<p><i>It is only through our recognition of a world of stubbornly 
+		independent reality, fact and truth that we come both to recognize 
+		ourselves as being distinct from others and to articulate the specific 
+		nature of our own identities.</i></p>
+	</blockquote>
+	<p class="MsoNormal">&nbsp;<b><span style="font-size: 14.0pt; font-family: Arial,sans-serif; color: black">READINGS:</span></b></p>
+	<p class="MsoNormal">&nbsp;<b><span style="font-size: 10.0pt; color: black">A.&nbsp; 
+	WIKIPEDIA</span></b></p>
+	<p class="MsoNormal" style="text-indent: -1.0in; margin-left: 1.0in">Truth&nbsp;&nbsp; 
+	&nbsp;<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://en.wikipedia.org/wiki/Truth">http://en.wikipedia.org/wiki/Truth</a></p>
+	<p class="MsoNormal">Truthiness&nbsp;
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://en.wikipedia.org/wiki/Truthiness">
+	http://en.wikipedia.org/wiki/Truthiness</a></p>
+	<p class="MsoNormal">Bull Shit&nbsp;
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://en.wikipedia.org/wiki/Bull_shit#Harry_Frankfurt.27s_concept">
+	http://en.wikipedia.org/wiki/Bull_shit#Harry_Frankfurt.27s_concept</a></p>
+	<p class="MsoNormal">Denialism:
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://en.wikipedia.org/wiki/Denialism">
+	http://en.wikipedia.org/wiki/Denialism</a></p>
+	<p class="MsoNormal">Relativism:&nbsp;
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://en.wikipedia.org/wiki/Relativism">
+	http://en.wikipedia.org/wiki/Relativism</a></p>
+	<p class="MsoNormal"><b><span style="font-size: 10.0pt; color: black">B. STANFORD 
+	ENCYCLOPEDIA of PHILOSOPHY&nbsp;&nbsp; </span></b></p>
+	<p class="MsoNormal">Truth&nbsp;&nbsp;
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://plato.stanford.edu/entries/truth/">
+	http://plato.stanford.edu/entries/truth/</a></p>
+	<p class="MsoNormal">Pluralist Theories of Truth&nbsp;
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://plato.stanford.edu/entries/truth-pluralist/">
+	http://plato.stanford.edu/entries/truth-pluralist/</a></p>
+	<p class="MsoNormal"><b><u>Truth: Why it Matters</u></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://en.wikipedia.org/wiki/Why_Truth_Matters">
+	http://en.wikipedia.org/wiki/Why_Truth_Matters</a></p>
+	<p class="MsoNormal">by
+	<a title="Ophelia Benson" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Ophelia_Benson">
+	Ophelia Benson</a> and
+	<a title="Jeremy Stangroom" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Jeremy_Stangroom">
+	Jeremy Stangroom</a> published by
+	<a title="Continuum International Publishing Group" style="color: blue; text-decoration: underline; text-underline: single" href="http://en.wikipedia.org/wiki/Continuum_International_Publishing_Group">
+	Continuum Books</a> in 2006.</p>
+	<p class="MsoNormal">&nbsp; &quot;<i>an argument for the importance of truth, along 
+	with related values and practices of reason, inquiry, evidence, testing, 
+	peer review, and the like, and against trendy but incoherent 
+	pseudo-philosophical moves that would replace them with wishful thinking</i>.&quot;</p>
+	<p class="MsoNormal">&nbsp;Extracts from <b><u>Truth: Why it Matters</u></b>&nbsp;at
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://www.butterfliesandwheels.org/books/why-truth-matters/extracts/">
+	http://www.butterfliesandwheels.org/books/why-truth-matters/extracts/</a>&nbsp; 
+	and below</p>
+	<p class="MsoNormal"><b>
+	<span style="font-size: 14.0pt; font-family: Arial,sans-serif; color: black">VIDEOS:</span></b></p>
+	<p class="MsoNormal"><b><span style="font-family: Arial,sans-serif">
+	<span style="font-size: 14pt; color: #000000">Truthiness:&nbsp; </span>
+	</span><span style="font-size: 10.0pt">
+	<span style="font-size: 10.0pt" class="watch-title">original use Stephen 
+	Colbert Show October 17,&nbsp; 2005
+	<a target="_blank" href="http://www.colbertnation.com/the-colbert-report-videos/24039/october-17-2005/the-word---truthiness">
+	http://www.colbertnation.com/the-colbert-report-videos/24039/october-17-2005/the-word---truthiness</a></span></span></b></p>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 14.0pt">Huw Price on 
+	Truth</span><span style="font-size: 10.0pt"> –5 parts @5 minutes each&nbsp; total 
+	@ 1 hour</span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">Part 1
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="http://www.youtube.com/watch?v=SvmmTZk8_Uo">
+	http://www.youtube.com/watch?v=SvmmTZk8_Uo</a> &nbsp;incl.&nbsp; correspondence theory 
+	(objectivism)</span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">Part 2
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="http://www.youtube.com/watch?v=tWVpdEv7H24">
+	http://www.youtube.com/watch?v=tWVpdEv7H24</a>&nbsp; incl.&nbsp; coherence theory 
+	(subjectivism), relativism (tolerance), pragmatism (subjectivism and 
+	objectivism)</span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">Part 3
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="http://www.youtube.com/watch?v=Hf4YEMl-oUI">
+	http://www.youtube.com/watch?v=Hf4YEMl-oUI</a>&nbsp;&nbsp;&nbsp; incl.,&nbsp;&nbsp;&nbsp; Blackburn 
+	position that culture wars are truth wars , Blackburn position is to walk 
+	away,&nbsp; Frege’s position that truth is transparent, Ramsey redundancy theory 
+	of truth,</span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">Part 4
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="http://www.youtube.com/watch?v=oX_vs0Q-Knw">
+	http://www.youtube.com/watch?v=oX_vs0Q-Knw</a>&nbsp; Conversational Game includes 
+	challenging, scoring points then promotes offering arguments with evidence 
+	and reasons to support a claim or belief and common intelligence of the 
+	community which can be brought to bear on the issue; with truth you cannot 
+	score points just based on individuals self assertion (this counters 
+	subjectivism)</span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">Part 5
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="http://www.youtube.com/watch?v=PQo6qXbMAjw">
+	http://www.youtube.com/watch?v=PQo6qXbMAjw</a>&nbsp; truth is a value in a 
+	conversational game, in Francis Bacon truth is a pleasure, provides an 
+	incentive in conversational game, </span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">If truth 
+	serves a value in the conversational game, truth as a value may be a myth 
+	but if we look at the job the myth is doing for us in the game, we may need 
+	to think twice before getting rid of it, it is a myth that plays an 
+	enormously central role in how we think of ourselves</span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">Truth is the 
+	Daughter of Time and Time rescues Truth from the cave of darkness</span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">&nbsp;The Pragmatic 
+	Theory of Truth (A Problem to be Solved)
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://www.youtube.com/watch?v=nvi2T7CDTOo">
+	http://www.youtube.com/watch?v=nvi2T7CDTOo</a></span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">JP Moreland on 
+	What is Truth (Correspondence Theory of Truth)&nbsp;
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://www.youtube.com/watch?v=kOJ9GDpQBUI">
+	http://www.youtube.com/watch?v=kOJ9GDpQBUI</a></span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">Problem with 
+	Correspondence Theory- Wittgenstein’s&nbsp; &nbsp;beetle in the box </span>
+	<span style="font-size: 8.0pt">
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://www.youtube.com/watch?v=W4b81V1FVDc">
+	http://www.youtube.com/watch?v=W4b81V1FVDc</a></span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span class="watch-title"><span style="font-size: 10.0pt">Timothy 
+	Williamson on Truth and Certainty
+	<a style="color: blue; text-decoration: underline; text-underline: single" target="_blank" href="http://www.youtube.com/watch?v=_4kQaDrMWew">
+	http://www.youtube.com/watch?v=_4kQaDrMWew</a></span></span></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h1><!--mstheme--><font face="Book Antiqua,Times New Roman,Times"><!--mstheme--><b><b><b><b><span style="font-size: 10.0pt">&nbsp;</span><b><span style="font-size: 11.0pt; font-family: Calibri,sans-serif; color: #1F497D">&nbsp;</span></b></b></b></b><!--mstheme--></font><!--mstheme--></b></h1>
+	<h2><!--mstheme--><font face="Book Antiqua,Times New Roman,Times">Why Truth Matters 1&nbsp; <em><font size="3">From </font> </em>
+	<font size="3">Why Truth Matters</font><em><font size="3"> (Continuum: 2006) by Ophelia Benson 
+	and Jeremy Stangroom, Chapter 1, ‘The Antinomies of Truth’, pp. 18-21.</font></em><!--mstheme--></font></h2>
+	<p>But does it really matter? Is it worth bothering about? Academic fashions 
+	come and go. Dons and professors are always coming up with some New Big 
+	Thing, and then getting old and doddering off to the great library in the 
+	sky, while new dons and professors hatch new big things, some more and some 
+	less silly than others. Casaubon had his key to all mythologies, Derrida had 
+	his, someone will have a new one tomorrow; what of it.</p>
+	<p>Yes, is our answer; it does matter. It matters for various pragmatic, 
+	instrumental reasons. Meera Nanda discusses in <em>Prophets Facing Backward
+	</em>the way Hindu fundamentalists in India have drawn on postmodernist 
+	scepticism and hostility to science in “Hinduising” Indian science, 
+	education, textbooks and the like. Richard Evans argues in his book <em>In 
+	Defense of History </em>that postmodernist scepticism about historical 
+	evidence and truth, along with valuable insights, also has dangerous 
+	implications.</p>
+	<p>&nbsp;Nazi Germany seemed to postmodernism’s critics to be the point at which 
+	an end to hyperrelativism was called for…There is in fact a massive, 
+	carefully empirical literature on the Nazi extermination of the Jews. 
+	Clearly, to regard it as fictional, or unreal, or no nearer to historical 
+	reality than, say, the work of the ‘revisionists’ who deny that Auschwitz 
+	ever happened at all is simply wrong. Here is an issue where evidence really 
+	counts, and can be used to establish the essential facts. Auschwitz was not 
+	a discourse. It trivializes mass murder to see it as a text. The gas 
+	chambers were not a piece of rhetoric. Auschwitz was indeed inherently a 
+	tragedy and cannot be seen as either a comedy or a farce. And if this is 
+	true of Auschwitz , then it must be true at least to some degree of other 
+	past happenings, events, institutions as well. [1]</p>
+	<p>&nbsp;That passage is in a book published in 1997. Three years later Evans saw 
+	his point enacted in a court of law.</p>
+	<p>In the David Irving libel trial held two years ago, in which I served as 
+	an expert witness for the High Court in London , Irving was suing Penguin 
+	Books and their author Deborah Lipstadt for calling him a Holocaust denier 
+	and a falsifier of history. It was not difficult to show that Irving had 
+	claimed on many occasions that no Jews were killed in gas chambers at the 
+	Auschwitz concentration camp. He argued in the courtroom, however, that his 
+	claim was supported by the historical evidence. The defence therefore 
+	brought forward the world’s leading expert on Auschwitz , Robert Jan Van 
+	Pelt, to present the evidence that showed that hundreds of thousands of Jews 
+	were in fact killed in this way. Van Pelt examined eyewitness testimony from 
+	camp officials and inmates, he looked at photographic evidence of the 
+	physical remains of the camp, and he studied contemporary documents such as 
+	plans, blueprints, letters, equipment orders, architectural designs, reports 
+	and so on. Each of these three kinds of evidence, as the judge concluded, 
+	had its flaws and its problems. But all three converged along the same 
+	lines, creating an overwhelming probability that Irving was wrong.</p>
+	<p>&nbsp;Just as important as this was the fact that it was possible to 
+	demonstrate that Irving ‘s historical works deliberately falsified the 
+	documentary evidence in order to lend plausibility to his preconceived 
+	arguments, principally his belief that Hitler was, as he said on one 
+	occasion, “probably the best friend the Jews ever had in the Third Reich”. 
+	Falsifying documents involved not just leaving words out from quotes but 
+	even putting extra words in to change the meaning. For example, quoting an 
+	order from Himmler that a “Jew-transport from Berlin” to the East should not 
+	be annihilated as if it were a general order that no Jews at all, anywhere, 
+	were to be killed, by the simple expedients of adding an “e” to the German 
+	word <em>Transport </em>, making it plural, and omitting the words “from 
+	Berlin”, and hoping that other researchers wouldn’t trouble to check the 
+	source, or if they did, wouldn’t be able to read the handwriting (which is 
+	actually very clear and unambiguous). Or by adding the word “All” to the 
+	note of a judge at the Nuremberg Trial in 1946 on the testimony of an 
+	Auschwitz survivor which actually said “this I do not believe”, after a 
+	small part of her testimony, to make it look as if he did not believe any of 
+	it. If we actually believed that documents could say anything we wanted them 
+	to, then none of this would actually matter, and it would not be possible to 
+	expose historical fraud for what it really is. [2]</p>
+	<p>There are also reasons beyond the pragmatic and instrumental, why truth 
+	matters, why it can be seen as an inherent good. They are not conclusive, 
+	knock-down, irrefutable reasons, they are not mathematical proofs, but they 
+	are reasons. We will discuss some in the final chapter. But for now we will 
+	content ourselves with some thoughts about what human beings are, and why, 
+	being what they are, they should consider truth a very important value, and 
+	considering it such, treat it accordingly.</p>
+	<p>&nbsp;Looked at in that light, the thought that leaps out at us is this: that 
+	humans are the only entities in the entire universe, for all we know, who 
+	have the capacity to make truth their object. The other needs and wishes, 
+	the ones that can conflict with truth, the needs and wishes for contentment, 
+	happiness, comfort, feelings of security and safety and being protected, are 
+	ones that other beings can want and strive for after a fashion But truth? 
+	No. We, by this strange provocative contingent accident of natural 
+	selection, have the kind of brain that can conceptualise reality as existing 
+	independent of us, and the possibility that we can discover what it is, 
+	along with the possibility that we can try to do that and fail, that we can 
+	think we’ve discovered it and be wrong, that we can discover part of it and 
+	be at a loss about the rest, and so on.</p>
+	<p>&nbsp;So one intrinsic reason for thinking we ought to respect the truth, and 
+	try to find out what it is, which entails not fudging it whenever we don’t 
+	like what we find, which entails deciding firmly <em>in advance </em>that we 
+	will put it first and all other considerations second – one reason for all 
+	this is simply that we can, and that as far as we know we are the only ones 
+	who can. We can, so we ought to. It would be such a waste not to.</p>
+	<p>If only as a sort of tribute to the remarkable accident of natural 
+	selection. To the staggering amazing chain of being – from nothing to 
+	something, to life, to intelligence, to truth-seeking.</p>
+	<p>&nbsp;And then, truth can be seen as a major part of the human heritage. Along 
+	with the pyramids and the Great Wall and King’s College Chapel, the 
+	cumulative gathering up of true knowledge about the world is something that 
+	belongs to all human beings across time – particularly of course into the 
+	future. It doesn’t belong to any of us in particular, to any one generation, 
+	to any mere short-lived <em>set </em>of humans, but to all of us. No one 
+	brief generation has the right to tamper with it for the sake of its own 
+	ephemeral satisfactions. Think of the Bamiyan Buddhas. How disgusting it was 
+	and is that a band of fundamentalist thugs should dare to destroy something 
+	that ought to have belonged to all humans across time as well as across 
+	space. The truth is a Bamiyan Buddha. It belongs to everyone, not anyone. No 
+	one has a right to destroy or distort or damage it for petty temporary 
+	political reasons.</p>
+	<p>&nbsp;<strong>References </strong></p>
+	<p>1. Richard Evans, <em>In Defense of History </em>, W.W. Norton and 
+	Company 1999 pp. 106-7.</p>
+	<p>2. Richard Evans, <em>Contribution to the ‘Great Debate on History and 
+	Postmodernism’ </em>, University of Sydney , Australia , 27 July 2002 , 
+	published as “Postmodernism and History”, <em>Butterflies and Wheels </em>,
+	<a target="_blank" href="http://www.butterfliesandwheels.com/articleprint.php?num=5">
+	http://www.butterfliesandwheels.com/articleprint.php?num=5</a>, accessed May 
+	15, 2005.</p>
+	<h2><!--mstheme--><font face="Book Antiqua,Times New Roman,Times">Why Truth Matters 2: Brigham Young University and Academic Freedom<!--mstheme--></font></h2>
+	<p><em>From </em>Why Truth Matters<em> (Continuum: 2006) by Ophelia Benson 
+	and Jeremy Stangroom, Chapter 7, ‘Institutions, Academe and Truth’, pp. 
+	141-146.</em></p>
+	<p>&nbsp;…consider also some of the events which have been played out in recent 
+	years at Brigham Young University (BYU), which has its main campus in Provo 
+	, Utah . BYU, founded in 1875 by members of the Church of Jesus Christ of 
+	Latter-day Saints (LDS) – that is, by Mormons – is an explicitly religious 
+	institution. Its mission statement makes it clear that it exists in order to 
+	enrich its students – as it sees it – in the Mormon faith:</p>
+	<p>The founding charge of BYU is to teach every subject with the Spirit. It 
+	is not intended “that all of the faculty should be categorically teaching 
+	religion constantly in their classes, but…that every…teacher in this 
+	institution would keep his subject matter bathed in the light and colour of 
+	the restored gospel.”</p>
+	<p>It is more than a little difficult to imagine quite what this means when 
+	it comes to subjects like accountancy and computer engineering. But it is 
+	immediately clear that BYU, and indeed other colleges and universities which 
+	are founded on religious precepts, differ significantly from their secular 
+	cousins. No doubt it is tempting to suppose that this difference necessarily 
+	undermines any claim which such institutions make that education and 
+	research are about the pursuit of truth. However, this would be to 
+	oversimplify; it is quite possible for people to carry out perfectly 
+	respectable research, in certain delimited fields, even if they believe that 
+	the moon is made of semi-skim yogurt and that a giant pumpkin is God. 
+	Religious institutions don’t throw truth out of the window altogether. Their 
+	policy is more selective; they keep the bits they like, and discard those 
+	they don’t.</p>
+	<p>Faculty at BYU are aware that their academic freedom is limited in quite 
+	specific ways. The BYU policy on academic freedom is set out in a document 
+	which was approved by the university’s trustees in September 1992. It is 
+	based on a distinction between “Individual Academic Freedom”, which refers 
+	to the “freedom of the individual faculty member ‘to teach and research 
+	without interference,’ to ask hard questions, to subject answers to rigorous 
+	examination, and to engage in scholarship and creative work”; and 
+	“Institutional Academic Freedom”, which holds that it is “the privilege of 
+	universities to pursue their distinctive missions”. Bringing these two 
+	things together leads BYU to its policy on academic freedom:</p>
+	<p>It follows that the exercise of individual and institutional academic 
+	freedom must be a matter of reasonable limitations. In general, at BYU a 
+	limitation is reasonable when the faculty behaviour or expression <em>
+	seriously and adversely affects </em>the university mission or the Church.</p>
+	<p>The policy document offers three examples of the kinds of things which 
+	staff aren’t permitted to say to students or in public: (a) something which 
+	contradicts or opposes LDS Church doctrine or policy; (b) something which 
+	deliberately derides or attacks the LDS Church or its leaders; and (c) 
+	something which violates the “Honor Code”. [1]</p>
+	<p>It’s obvious that such a policy is bound to result in problems. Scholars 
+	working in the humanities or the social sciences are very likely to be 
+	inquiring into subjects that could bring them into conflict with the 
+	specified limitations on academic freedom. This is especially the case since 
+	the limitations are vague enough so that what the BYU authorities consider 
+	to be a violation might vary over time, and from case to case, and that 
+	faculty might not be clear anyway that particular views or activities are 
+	unacceptable.</p>
+	<p>It is important to make it clear here that there is no evidence that BYU 
+	staff are dissatisfied either with the university’s strongly religious 
+	nature, or with the fact that their academic freedom is necessarily limited. 
+	This is not surprising; some ninety-five per cent of faculty are members of 
+	the LDS Church, and also, as a condition of their employment, “temple 
+	worthy”, a status attained by only about one in five Mormons. The problems 
+	have arisen rather because of the perception that the specified limitations 
+	on academic freedom are applied with too much zeal; in particular, there is 
+	the suspicion that the policy on academic freedom is used in order to 
+	silence viewpoints which are unorthodox only on the strictest interpretation 
+	of Church doctrine, even though this is not justified by the letter of the 
+	policy. This point is perhaps best illustrated by the case of Gail Hurley 
+	Houston, who between 1990 and 1996 was an Assistant Professor in the 
+	Department of English at BYU.</p>
+	<p>Professor Houston’s story is quite complicated. Indeed, it is the subject 
+	of a sixty-two page report by BYU administrators, which itself was the 
+	result of an investigation by the American Association of University 
+	Professors, which for its part culminated in an eighteen page report.[2] The 
+	essence of the story, though, is that Professor Houston’s application for 
+	tenure (which went forward, as is standard, as she approached her sixth year 
+	of employment at BYU) was denied, despite its being supported by her 
+	departmental colleagues, her departmental chair, and two of the three 
+	requisite tenure committees. It was rejected at the last stage in the tenure 
+	process by the University Faculty Council on Rank and Status; the decision 
+	to deny tenure was then confirmed by an Appeal Panel hearing in August 1996.</p>
+	<p>Houston ‘s application for tenure was not denied on the grounds of the 
+	quality of her scholarship. It was denied because in the eyes of the BYU 
+	administration she had engaged in “a pattern of publicly contradicting 
+	fundamental Church doctrine and deliberately attacking the Church.”[3] Thus, 
+	she was informed that the negative recommendation was because of the number 
+	and severity of occasions when your actions and words on and off campus…were 
+	perceived as harmful to the tenets held by the Church and the university. We 
+	feel that not only have these activities failed to strengthen the moral 
+	vigour of the university, they have enervated its very fibre.[4]</p>
+	<p>The BYU administration identified a number of specific occasions where 
+	they thought her behaviour had transgressed the boundaries set out in the 
+	policy on academic freedom. Perhaps most significant were two instances 
+	where she suggested that it is appropriate for Mormons to pray to the 
+	“Heavenly Mother” as well as to the “Heavenly Father”. The BYU authorities 
+	pointed out that she had previously had a warning that such conduct was a 
+	clear violation of Church doctrine, and therefore, that it was unacceptable, 
+	but that she had subsequently repeated the offence. There were also concerns 
+	that she had publicly advocated extending the priesthood to women, again in 
+	clear violation of Church doctrine.</p>
+	<p>It would be easy to dismiss these worries on the grounds that they are a 
+	function of a deeply ingrained sexism which is characteristic of the Mormon 
+	religion. However, whilst this is probably true, it nevertheless isn’t clear 
+	that the BYU administrators behaved in quite the arbitrary manner that some 
+	commentators have supposed. In other words, there is at least an argument 
+	that both the following things are true: Professor Houston was the victim of 
+	religious intolerance rooted in a sexist theology; and the BYU 
+	administrators correctly applied the terms of their policy on academic 
+	freedom.</p>
+	<p>There is an interesting point here, linked to some of the themes we 
+	explored in chapter 5, about how tempting it is to assess this kind of 
+	dispute in terms of viewpoints which are rooted in prior political and 
+	ideological commitments. Thus, for example, it would be easy for the authors 
+	of this book, in line with their atheism, to declare an anathema on BYU, its 
+	arguments and works; that is, to decide in advance that the justification it 
+	offered for denying tenure to a feminist scholar was necessarily going to be 
+	flawed. But if you look closely at the arguments involved in the issue, the 
+	matter is not as straightforward as that.</p>
+	<p>&nbsp;Consider, for example, the issue of Houston ‘s prayers to a “Heavenly 
+	Mother”. The report of AAUP found that BYU had not made their case on this 
+	issue, because Professor Houston’s statements about her visions of a Mother 
+	in Heaven were a “description of a personal vision,” and did not constitute 
+	public advocacy of belief as the administration charged.[5]</p>
+	<p>This is pure sophistry. BYU’s addendum to the AAUP document was right 
+	when it said:</p>
+	<p>The AAUP’s argument that Professor Houston did not “advocate” praying to 
+	Heavenly Mother is specious. She publicly announced that she engages in the 
+	practice of praying to Heavenly Mother and described what a wonderful 
+	experience it is. She even described what Heavenly Father and Heavenly 
+	Mother say to her in such prayers…The clear message of her public statements 
+	was that it is appropriate to pray to Heavenly Mother, that it is a 
+	wonderful experience, and that Heavenly Father and Heavenly Mother accept 
+	and respond to such prayers.[6]</p>
+	<p>However, and it is an important however, the fact that it is at least 
+	arguable that BYU acted within the terms of its own policy on academic 
+	freedom in the case of Professor Houston, albeit on the basis of the 
+	strictest interpretation of that policy, does not mean that there is no 
+	institutional pressure at BYU on faculty. The evidence is that there is 
+	institutional pressure; that a significant minority of academics fear 
+	precisely that they will fall foul of a strict interpretation of the policy 
+	on academic freedom; and, in particular, that feminist scholars tend to 
+	attract the often unwelcome attention of the BYU authorities.</p>
+	<p>Thus, for example, the AAUP described a visit to the BYU campus at Provo 
+	as follows:</p>
+	<p>Many faculty members shared in some detail the narratives of their 
+	problems with academic freedom, reappointment, promotion, and tenure, 
+	frequently producing documents but asking that their names and identifying 
+	circumstances not be included in this report. At least two cases are in 
+	litigation against the university. Some cases involve issues of personal 
+	conduct that are under investigation and others focus on academic research 
+	that raises concern with the administration. Several creative artists in 
+	different fields told of pressures to alter works to meet unclear 
+	administrative agendas…Numerous women, some in groups and some alone, spoke 
+	to the investigating committee about the hostile climate for women on 
+	campus.[7]</p>
+	<p>Reading this, though, one is led to wonder quite what they expected. 
+	Religious doctrine is <em>always </em>contested; therefore, disputes about 
+	academic freedom are inevitable given the existence of a policy which 
+	prohibits overt doctrinal heterodoxy. But it must be said that for a 
+	professor at a religious university to complain about this situation is a 
+	little bizarre. It comes with the territory. If you’re working within the 
+	confines of a revealed truth, then there’s a lot you can’t say. Indeed, with 
+	regard to BYU’s antipathy towards certain kinds of feminism, it is not 
+	unreasonable to ask, though it certainly isn’t politic, what exactly 
+	feminist scholars think they are doing working there in the first place? 
+	After all, the LDS Church is hardly covered in glory when it comes to its 
+	record on the rights of women.</p>
+	<p>&nbsp;1.
+	<a target="_blank" href="http://www.byu.edu/fc/pages/refmapages/acadfree.html">
+	http://www.byu.edu/fc/pages/refmapages/acadfree.html</a>, accessed May 21 
+	2005 .<br>
+	2. See <a target="_blank" href="http://campuslife.byu.edu/honorcode/">
+	http://campuslife.byu.edu/honorcode/</a>, accessed May 21 2005 .<br>
+	3. “Academic Freedom and Tenure: Brigham Young University ”, <em>Academe
+	</em>, Sept-Oct 1997, pp. 52-71.<br>
+	4. ‘The Issue of Academic Freedom: An Interview with Jim Gordon”, <em>
+	Brigham Young Magazine </em>, Winter 1997.<br>
+	5. Cited in “Academic Freedom and Tenure: Brigham Young University ”, <em>
+	Academe </em>, Sept-Oct 1997, p. 52. <br>
+	6. Ibid., p. 65.<br>
+	7. Ibid., p. 70.<br>
+	8. Ibid., p. 67.</p>
+	<h2><!--mstheme--><font face="Book Antiqua,Times New Roman,Times">Why Truth Matters 3 <em><font size="3">From </font> </em><font size="3">Why Truth Matters</font><em><font size="3"> (Continuum: 2006) by Ophelia Benson 
+	and Jeremy Stangroom, Chapter 8, ‘Why Truth Matters’, pp. 178-181.</font></em><!--mstheme--></font></h2>
+	<p>In the end, this boils down to preferences. Even the preference for a 
+	world where the lies of genocidal tyrannies are eventually corrected is 
+	still ultimately a preference. A highly reasonable, well-grounded 
+	preference, but still a preference. If we didn’t have minds, and emotions, 
+	and the moral thoughts that go with them, mass slaughters would just be 
+	something that happened, like rain.</p>
+	<p>Some people do prefer to live in a thought-world where priests and 
+	mullahs claim to decide what is true. Others prefer to live in a 
+	thought-world where ideas about what is true are lenient, flexible, fuzzy 
+	around the edges; where it is possible to sort-of-believe, half-believe and 
+	half-hope, believe in an as if or storytelling or daydreaming way. Others 
+	prefer – genuinely prefer, not merely think they’re supposed to – to try to 
+	figure out what really is true, as opposed to what might be, or appears to 
+	be, or should be. This is a preference. One can adduce moral and 
+	psychological reasons for both preferences. The reasons we’ve given for 
+	thinking truth matters rest on preferences, and there’s no final definitive 
+	knock-down case for them, at least not that we’ve been able to think up or 
+	find. But reasons can be good reasons without being final ones.</p>
+	<p>And one last good reason for thinking that truth matters, it seems to us, 
+	is all about preferences, in the largest and most humanly important sense. 
+	It’s about happiness, flourishing, enthusiasm, about what makes life worth 
+	living, why we prefer being awake to being asleep, why it’s a privilege to 
+	be human. It’s about why truth <em>matters </em>. Really matters. Not in a 
+	dull perfunctory dutiful sense, but in a real, lived, felt sense – “on the 
+	pulses,” as Keats put it.</p>
+	<p>This is the kind of mattering we’re talking about here – personal but 
+	also public, subjective but also communicable and sharable, immediate but 
+	also permanent, cognitive but also emotional. In a way it’s just as much 
+	about community and solidarity as Rorty’s vision is, but it’s a community 
+	that thinks truth matters rather than one that prefers solidarity to truth. 
+	Truth is perhaps the capital city on that mattering map.</p>
+	<p>This reason is based on the thought that inquiry, curiosity, interest, 
+	investigation, explanation-seeking, are hugely important components of human 
+	happiness. This doesn’t seem to be a terribly popular thought right now. 
+	Public rhetoric tends to aim much lower, for some reason. It seems to see us 
+	all as hunkered down, and settling. Settling for minimal, parochial, almost 
+	biological satisfactions – family, safety, money. But that underestimates 
+	us. We want more than that. We want to ask questions, we want to learn, we 
+	want to understand. That’s a very human taste and pleasure. Again, as we 
+	said in Chapter 1, it seems a waste not to use human capacities and 
+	abilities. Anyone can settle for just survival and reproduction and comfort, 
+	but we can do more. It’s a privilege, that is – it seems a kind of sacrilege 
+	not to use it.</p>
+	<p>And real inquiry presupposes that truth matters. That it is true that 
+	there is a truth of the matter we’re investigating, even if it turns out 
+	that we can’t find it. Maybe the next generation can, or two or three or ten 
+	after that, or maybe just someone more skilled than we are. But we have to 
+	think there is something to find in order for inquiry to be genuine inquiry 
+	and not just an arbitrary game that doesn’t go anywhere. We like games, but 
+	we also like genuine inquiry. <em>That’s </em>why truth matters.</p>
+	<p>Postmodern (and postmodern-aided traditional) attacks on science and 
+	truth of the sort quoted above tend to frame science and inquiry as 
+	impoverished in various ways: arid, cold, unfeeling, mechanical, dull, empty 
+	of poetry and colour and life, devoid of wonder. This is an old Romantic 
+	trope – Blake’s “single vision and Newton ‘s sleep,” Keats’ “cold philosophy 
+	would clip an angel’s wings,” Wordsworth’s “they murder to dissect.” But 
+	scientists with real experience of inquiry and discovery think that Blake, 
+	Keats and Wordsworth were simply wrong, and that so are their contemporary 
+	avatars. Richard Dawkins for example:</p>
+	<p>To accuse science of robbing life of the warmth that makes it worth 
+	living is so preposterously mistaken, so diametrically opposed to my own 
+	feelings and those of most working scientists, I am almost driven to the 
+	despair of which I am wrongly suspected…The feeling of awed wonder that 
+	science can give us is one of the highest experiences of which the human 
+	psyche is capable. It is a deep aesthetic passion to rank with the finest 
+	that music and poetry can deliver. [1]</p>
+	<p>And Matt Ridley:</p>
+	<p>&nbsp;The one thing I would try to teach the world about science is <em>that 
+	science is not a catalogue of facts, but a search for new mysteries </em>. 
+	Science increases the store of wonder and mystery in the world; it does not 
+	erode it.</p>
+	<p>The myth, started by the Romantic poets, that science gets rid of 
+	mysteries was well nailed by Albert Einstein – whose thought experiments 
+	about relativity are far more otherworldly, elusive, thrilling and baffling 
+	than anything dreamt up by poets. Isaac Newton showed us the mysteries of 
+	deep space, Charles Darwin showed us the mysteries of deep time, and Francis 
+	Crick and James D Watson showed us the mysteries of deep encoding. To get 
+	rid of those insights would be to reduce the world’s stock of awe. [2]</p>
+	<p>&nbsp;That’s why truth matters.<strong>&nbsp;</strong></p>
+	<p><strong>References</strong></p>
+	<p>1. Richard Dawkins, <em>Unweaving the Rainbow </em>, Houghton Mifflin 
+	Company 1998, p. x.</p>
+	<p>2. <em>Spiked </em>science survey, “If you could teach the world just one 
+	thing”,
+	<a target="_blank" href="http://www.spiked-online.com/articles/0000000CAA95.htm">
+	http://www.spiked-online.com/articles/0000000CAA95.htm</a>, accessed May 21 
+	2005. </p>
+	<p class="MsoNormal">- See more at:
+	<a target="_blank" href="http://www.butterfliesandwheels.org/books/why-truth-matters/extracts/#sthash.UUiPK64p.dpuf">
+	http://www.butterfliesandwheels.org/books/why-truth-matters/extracts/#sthash.UUiPK64p.dpuf&nbsp;</a></p>
+&nbsp;<!--mstheme--></font></td>
+  </tr>
+
+
+<p>
+<p>
+<p>
+<p>
+
+<br><b>Proceed to the next section by clicking here: 
+<a href="xxxxxxxxx">
+Next Section</b></a>
+
+<div id="wrapper-footer">
+  <div id="footer"> 
+<br>Copyright Philip A. Pecorino 2014. All Rights reserved.
+
+Web Surfer's Caveat: These are class notes, intended to comment on readings and amplify class discussion. They should be read as such. They are not intended for publication or general distribution.</div>
+</div>
+<tr>
+Return to:    
+    <td width="100%"><b><u><a href="../default.htm"> 
+Table of Contents for the Online Textbook</a></font></u></b></font><!--mstheme--></font></td>
+  </tr>
+</body>
+</html>
