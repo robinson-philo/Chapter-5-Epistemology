@@ -21,11 +21,11 @@ body {
 }
 
 #wrapper-menu-top {
-	background: white url('images/bg02-white-left.png') no-repeat left top;
+	background: white url('https://raw.githubusercontent.com/robinson-philo/robinson_philo/tree/master/images/bg02-white-left.png') no-repeat left top;
 }
 
 #menu-top {
-	background: transparent url('images/bg02-white-right.png') no-repeat right top;
+	background: transparent url('https://raw.githubusercontent.com/robinson-philo/robinson_philo/tree/master/images/bg02-white-right.png') no-repeat right top;
 	overflow: hidden; /* no idea why this works, but it fixes a FF problem */
 }
 
@@ -44,7 +44,7 @@ body {
 
 #menu-top a {
 	float: left;
-	background:url(images/menuleft.png) no-repeat left top;
+	background:url(https://raw.githubusercontent.com/robinson-philo/robinson_philo/tree/master/images/menuleft.png) no-repeat left top;
 	margin:0;
 	padding:0 0 0 4px;
 	text-decoration:none;
@@ -52,7 +52,7 @@ body {
 }
 
 #menu-top a span {
-	background: transparent url(images/menuright.png) no-repeat right top;
+	background: transparent url(https://raw.githubusercontent.com/robinson-philo/robinson_philo/tree/master/images/menuright.png) no-repeat right top;
 	padding:5px 15px 4px 6px;
 	color:#5b8fbe;
 	display: block;
@@ -64,19 +64,19 @@ body {
  #menu-top a:hover span {	background-position:100% -42px; }
 
 #wrapper-header {
-	background: transparent url('images/bg.png') top center repeat-x;
+	background: transparent url('https://raw.githubusercontent.com/robinson-philo/robinson_philo/master/images/bg.png') top center repeat-x;
 }
 
 #header {
-	background: #eee url('images/banner_mountains.jpg') no-repeat center top;
+	background: #eee url('https://raw.githubusercontent.com/robinson-philo/robinson_philo/master/images/banner_mountains.jpg') no-repeat center top;
 }
 
 #wrapper-header2 {
-	background: transparent url('images/bg02-blue-left.png') top left no-repeat;
+	background: transparent url('https://raw.githubusercontent.com/robinson-philo/robinson_philo/master/images/bg02-blue-left.png') top left no-repeat;
 }
 
 #wrapper-header3 {
-	background: transparent url('images/bg02-blue-right.png') top right no-repeat;
+	background: transparent url('https://raw.githubusercontent.com/robinson-philo/robinson_philo/master/images/bg02-blue-right.png') top right no-repeat;
 }
 
 #header h1 {
@@ -89,13 +89,13 @@ body {
 }
 
 #wrapper-content {
-	background: white url('images/bg02-white-left.png') no-repeat left top;
+	background: white url('https://raw.githubusercontent.com/robinson-philo/robinson_philo/master/images/bg02-white-left.png') no-repeat left top;
 }
 
 * html #wrapper-content { height: 1%; }
 
 #content {
-	background: transparent url('images/bg02-white-right.png') no-repeat right top;
+	background: transparent url('https://raw.githubusercontent.com/robinson-philo/robinson_philo/master/images/bg02-white-right.png') no-repeat right top;
 	padding: 5px 245px 5px 40px;
 }
 
